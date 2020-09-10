@@ -1,0 +1,70 @@
+body {
+
+}
+
+h1 {
+    
+    color: #1E212B;
+    font-size: 38px;
+}
+
+p {
+    
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.text01 {
+    font-family: Tahoma;
+    background-color: #FFC800;
+    width: 65%;
+    text-align: left;
+    padding: 20px 50px 50px 50px;
+    margin: 50px 0px 20px 0px;
+    border-radius: 50px;
+}
+
+.text02 {
+    background-color: rgba(2, 204, 255, 0.575);
+    padding: 20px 50px 50px 50px;
+    margin: 20px;
+    text-align: center;
+    width: 50%;
+    border-radius: 50px;
+    font-family: Tahoma;
+}
+
+.pic1 {
+    background-image:
+    url(../images/spacex1.jpg);
+    width: 70%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+}
+
+.pic2 {
+    background-image:
+    url(../images/Spacex2.jpg);
+    width: 30%;
+    height: 500px;
+    background-size: contain;
+    background-position: bottom;
+    border-radius: 20px 25px 50px 35px;
+}
+
+.t1 {
+    color: #ffffff11;
+    font-family: Tahoma;
+}
+
+.link1 {
+    color: #000000;
+}
+
+a {
+    font-family: Tahoma;
+    font-size: 20px;
+}
